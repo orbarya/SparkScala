@@ -1,5 +1,0 @@
-[user]
-        name = Or Bar Yaacov
-        email = baryaacov@gmail.com
-[merge]
-        tool = vimdiff
